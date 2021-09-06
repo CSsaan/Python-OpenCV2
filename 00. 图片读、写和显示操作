@@ -1,2 +1,0 @@
-# 安装好 OpenCV 之后，首先尝试加载一张最简单的图片并显示出来，代码示例：
-# 第一种方式使用cv2.cv的LoadImage、ShowImage和SaveImage函数
